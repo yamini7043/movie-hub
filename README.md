@@ -16,7 +16,7 @@
 
 1. Clone the repository:
     bash
-    git clone https://github.com/your-repo/movie-library.git
+    git clone (https://github.com/yamini7043/movie-hub)
     cd movie-library
     
 
